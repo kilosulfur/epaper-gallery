@@ -1,9 +1,17 @@
 {
-  "version": 1793686052,
+  "version": 1793840566,
   "images": [
     "gallery/01.bin",
     "gallery/02.bin",
     "gallery/03.bin",
-    "gallery/04.bin"
+    "gallery/04.bin",
+    "gallery/05.bin",
+    "gallery/06.bin",
+    "gallery/07.bin",
+    "gallery/08.bin",
+    "gallery/09.bin",
+    "gallery/10.bin",
+    "gallery/11.bin",
+    "gallery/12.bin"
   ]
 }
